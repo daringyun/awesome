@@ -1,4 +1,16 @@
 
+- [@sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+- [@bradoyler/awesome-all](https://github.com/bradoyler/awesome-all)
+- [@emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
+- [@erichs/awesome-awesome](https://github.com/erichs/awesome-awesome)
+- [@oyvindrobertsen/awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome)
+- [@fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
+- [@bayandin/awesome-awesomness](https://github.com/bayandin/awesome-awesomeness)
+- [@jnv/lists](https://github.com/jnv/lists)
+- [@t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
+- [@sindresorhus/awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome)
+- [@scoopermaa/awesome-awesome](https://github.com/coopermaa/awesome-awesome)
+
 https://github.com/sindresorhus/awesome   国外著名开源项目
 
 https://github.com/jobbole/awesome-java-cn: Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
