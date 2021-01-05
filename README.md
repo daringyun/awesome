@@ -11,6 +11,11 @@
 - [@sindresorhus/awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome)
 - [@scoopermaa/awesome-awesome](https://github.com/coopermaa/awesome-awesome)
 
+
+后端技术知识图谱：https://github.com/xingshaocheng/architect-awesome
+前端技术指数图谱：https://github.com/f2e-awesome/knowledge
+
+
 https://github.com/sindresorhus/awesome   国外著名开源项目
 
 https://github.com/jobbole/awesome-java-cn: Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
