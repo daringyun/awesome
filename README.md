@@ -14,7 +14,7 @@
 
 后端技术知识图谱：https://github.com/xingshaocheng/architect-awesome
 
-前端技术指数图谱：https://github.com/f2e-awesome/knowledge
+前端技术知识图谱：https://github.com/f2e-awesome/knowledge
 
 
 https://github.com/sindresorhus/awesome   国外著名开源项目
