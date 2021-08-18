@@ -11,6 +11,7 @@
 - [@sindresorhus/awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome)
 - [@scoopermaa/awesome-awesome](https://github.com/coopermaa/awesome-awesome)
 
+数学相关：https://github.com/rossant/awesome-math
 
 后端技术知识图谱：https://github.com/xingshaocheng/architect-awesome
 
