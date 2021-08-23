@@ -17,6 +17,7 @@
 
 前端技术知识图谱：https://github.com/f2e-awesome/knowledge
 
+最新最完善的 Java 学习路线：https://github.com/Snailclimb/JavaGuide 
 
 https://github.com/sindresorhus/awesome   国外著名开源项目
 
